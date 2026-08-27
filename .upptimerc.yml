@@ -15,6 +15,8 @@ assignees:
 status-website:
   cname: status.qaguardian.com
   logoUrl: https://raw.githubusercontent.com/qa-guardian/status/master/assets/qag-1.svg
+  favicon: https://raw.githubusercontent.com/qa-guardian/status/master/assets/favicon-96x96.png
+  faviconSvg: https://raw.githubusercontent.com/qa-guardian/status/master/assets/favicon.svg
   name: QA Guardian Status
   introTitle: "Live status for **QA Guardian** services."
   introMessage: Real-time uptime and incident history for the QA Guardian website, app, and API — checked every 5 minutes from independent infrastructure.
